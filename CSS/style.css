@@ -1,0 +1,127 @@
+.fh{
+    width: 50%;
+    height: 100%;
+}
+
+.sh{
+    width: 50%;
+    height: 1000px;
+    background-color: rgba(235,83,104,255);
+}
+
+.Login{
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 42%;
+    margin-top: 20%;
+}
+
+.logo{
+
+    margin-left: 39%;
+
+}
+
+.flb{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    margin-left: 35%;
+    
+}
+
+.email{
+    width: 350px;
+    height: 50px;
+    background-color: rgba(211,211,211,255) ;
+    border: 0cap;
+    margin-left: 27%;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+.pass{
+    width: 350px;
+    height: 50px;
+    background-color: rgba(211,211,211,255) ;
+    border: 0cap;
+    margin-left: 27%;
+    margin-top: 20px;
+    padding-left: 10px;
+    font-size: 17px;
+
+}
+
+.slb{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    margin-left: 33%;
+
+}
+
+.login{
+    font-family: 'Lucida Sans';
+    font-size: 18px;
+    width: 150px;
+    height: 40px;
+    background-color: #ee593a;
+    border-radius: 30px;
+    margin-left: 43%;
+    color: white;
+}
+
+.log{
+    padding-left: 40px;
+    padding-top: 8px;
+}
+
+
+
+
+
+.fl{
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 30%;
+    margin-top: 40%;
+    color: white;
+}
+
+.sl{
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 45%;
+    color: white;
+    margin-top: -35px;
+}
+
+.pl1{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    margin-left: 22%;
+    color: white;
+}
+
+.pl2{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    margin-left: 29%;
+    color: white;
+    margin-top: -20px;
+}
+
+.pl3{
+    font-family: 'Lucida Sans';
+    font-size: 25px;
+    margin-left: 34%;
+    color: white;
+    margin-top: -20px;
+}
+
+
+.cm{
+    display: flex;
+}
+
